@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Punto2</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Password</string>
+    <string name="repPassword">Repita password</string>
+    <string name="correo">Correo electronico</string>
+    <string name="guardar">Guardar</string>
+    <string name="resultado">Resultado</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Pereira</item>
+        <item>Armenia</item>
+        <item>Manizales</item>
+        <item>Bogota</item>
+    </string-array>
+</resources>
